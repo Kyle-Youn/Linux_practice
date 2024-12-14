@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ## Ubuntu KST 설정
 
 # 현재 시간대 확인
