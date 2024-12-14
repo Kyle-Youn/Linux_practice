@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # 명령어의 표준출력을 파일로 저장하기(덮어쓰기)
 command > output.txt
 
